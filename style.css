@@ -1,3 +1,37 @@
 body{
-    background-color: blanchedalmond;
+    background-color: rgb(255, 202, 122);
+    color: rgb(194, 85, 52);
+    font-size: 30px;
+    text-align: center;
+  font-family: "Crimson Text", serif;
+}
+#stuff{
+    font-size: 100px;
+    color: rgb(73, 16, 6);
+    margin: 50px
+}
+.thingy{
+    color:rgb(124, 77, 46);
+    background-color: rgb(255, 255, 255);
+    padding: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.silly-goose{
+    border: 1px solid rgb(186, 238, 247);
+    padding: 50px 25px;
+    background-color: rgb(186, 238, 247);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.boo{
+    font-size: 20px;
+    padding: 3px 5px;
+    background-color: rgb(231, 251, 255);
+    margin-left: 90px;
+    margin-right: 90px;
+}
+img{
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
 }
